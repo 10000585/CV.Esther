@@ -1,0 +1,52 @@
+[1014/125516:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1014/130513:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1014/131513:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1014/131513:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1014/132013:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1014/142640:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1017/155942:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1017/155942:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1017/160442:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1017/161942:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1017/163442:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1017/164942:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1017/170442:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1017/171942:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1017/173710:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1017/175210:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1017/180710:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1017/182210:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1017/183710:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1017/190801:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1017/192301:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1017/193801:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1017/195301:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1017/200801:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1017/202301:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1017/203801:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1017/213914:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1017/215414:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1017/220914:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1017/222414:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1019/121310:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1019/122810:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1019/124310:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1019/125810:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1019/130103:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1019/130103:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess: Se intentó obtener acceso a un proceso que está cerrándose.  (0xc000010a)
+[1019/130103:ERROR:process_reader_win.cc(173)] ResumeThread: El parámetro no es correcto. (0x57)
+[1019/130103:ERROR:process_reader_win.cc(142)] SuspendThread: Acceso denegado. (0x5)
+[1019/130103:ERROR:process_reader_win.cc(142)] SuspendThread: Acceso denegado. (0x5)
+[1019/130103:ERROR:process_reader_win.cc(142)] SuspendThread: Acceso denegado. (0x5)
+[1019/130103:ERROR:process_reader_win.cc(142)] SuspendThread: Acceso denegado. (0x5)
+[1019/130103:ERROR:process_reader_win.cc(142)] SuspendThread: Acceso denegado. (0x5)
+[1019/130103:ERROR:process_reader_win.cc(142)] SuspendThread: Acceso denegado. (0x5)
+[1019/130103:ERROR:process_reader_win.cc(142)] SuspendThread: Acceso denegado. (0x5)
+[1019/130103:ERROR:process_reader_win.cc(142)] SuspendThread: Acceso denegado. (0x5)
+[1019/130103:ERROR:process_reader_win.cc(142)] SuspendThread: Acceso denegado. (0x5)
+[1019/130103:ERROR:process_reader_win.cc(142)] SuspendThread: Acceso denegado. (0x5)
+[1019/130103:ERROR:process_reader_win.cc(142)] SuspendThread: Acceso denegado. (0x5)
+[1019/130103:ERROR:process_reader_win.cc(142)] SuspendThread: Acceso denegado. (0x5)
+[1019/130103:ERROR:process_reader_win.cc(142)] SuspendThread: Acceso denegado. (0x5)
+[1019/130103:ERROR:exception_snapshot_win.cc(87)] thread ID 7664 not found in process
+[1019/130103:WARNING:crash_report_exception_handler.cc(56)] ProcessSnapshotWin::Initialize failed
